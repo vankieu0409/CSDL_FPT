@@ -1,0 +1,6 @@
+E:\CSDL- COM2034\Database1\Database1\bin\Debug\Database1.dacpac
+E:\CSDL- COM2034\Database1\Database1\bin\Debug\Database1.dll
+E:\CSDL- COM2034\Database1\Database1\bin\Debug\Database1.pdb
+E:\CSDL- COM2034\Database1\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+E:\CSDL- COM2034\Database1\Database1\obj\Debug\Database1.dll
+E:\CSDL- COM2034\Database1\Database1\obj\Debug\Database1.pdb
